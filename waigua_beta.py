@@ -8,7 +8,7 @@ mouse = pyautogui
 print("Toulove WaiGua by RedHerrings.\n")
 totalworks = int(input("Please specify how many rounds you would like to play:"))
 print("Going to play " + str(totalworks) + " rounds.\n")
-print("Please minimize the python window and go to 本丸 now. \nToulove Waigua will start in 30 seconds.")
+print("Please minimize the python window and go to 本丸 now. \nToulove Waigua will start in 10 seconds.")
 time.sleep(10)
 
 CoordinateSelect=0
